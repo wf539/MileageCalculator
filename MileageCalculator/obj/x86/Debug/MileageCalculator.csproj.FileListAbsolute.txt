@@ -1,0 +1,7 @@
+c:\users\wfarmer\documents\visual studio 2010\Projects\MileageCalculator\MileageCalculator\bin\Debug\MileageCalculator.exe
+c:\users\wfarmer\documents\visual studio 2010\Projects\MileageCalculator\MileageCalculator\bin\Debug\MileageCalculator.pdb
+c:\users\wfarmer\documents\visual studio 2010\Projects\MileageCalculator\MileageCalculator\obj\x86\Debug\MileageCalculator.Form1.resources
+c:\users\wfarmer\documents\visual studio 2010\Projects\MileageCalculator\MileageCalculator\obj\x86\Debug\MileageCalculator.Properties.Resources.resources
+c:\users\wfarmer\documents\visual studio 2010\Projects\MileageCalculator\MileageCalculator\obj\x86\Debug\MileageCalculator.csproj.GenerateResource.Cache
+c:\users\wfarmer\documents\visual studio 2010\Projects\MileageCalculator\MileageCalculator\obj\x86\Debug\MileageCalculator.exe
+c:\users\wfarmer\documents\visual studio 2010\Projects\MileageCalculator\MileageCalculator\obj\x86\Debug\MileageCalculator.pdb
